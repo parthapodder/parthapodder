@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Partha Podder</h1>
-<h3 align="center">A passionate Fulstack developer from Bangladesh</h3>
-<img align = "right " alt = "coding" weight = "400" src="https://github.com/parthapodder/parthapodder/assets/140163610/a4b7fa4b-2f43-4f2d-bbf7-0b144634b7e2.gif">
-
-
-
+<h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
+<img align = "right " alt = "coding" weight = "400" src="![image](https://github.com/parthapodder/parthapodder/assets/140163610/bbcab150-ba8f-48f4-b123-f57fa89afa30)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthapodder&label=Profile%20views&color=0e75b6&style=flat" alt="parthapodder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthapodder" alt="parthapodder" /></a> </p>
